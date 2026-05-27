@@ -1,4 +1,5 @@
-## I work at the intersection of education, digital transformation,
+## My name is Natalka.
+I work at the intersection of education, digital transformation,
 youth initiatives, and modern communication tools.
 ## About me  
 - Coordinator of educational and digital initiatives
