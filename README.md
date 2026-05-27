@@ -29,3 +29,7 @@ Architecture and planning for online educational environment.
 Development of digital communication standards and staff training materials.
 ### Youth Educational Projects
 Organization of training programs, camps, and educational initiatives.
+
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
