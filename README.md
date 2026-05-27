@@ -17,8 +17,9 @@ youth initiatives, and modern communication tools.
 - HTML / CSS / JavaScript  
 - GitHub & GitHub Pages  
 - UI/UX Concepts  
-- LMS & Online Learning  
-- ## Featured Projects  
+- LMS & Online Learning
+   
+## Featured Projects  
 
 ### Digital Transformation Concept
 Concept of digital ecosystem for educational institution.
