@@ -1,21 +1,8 @@
-## 
-Я Наталія Літковець, працюю в Палаці дітей та молоді з 1991 року.  Завідувачка сектором Цифрової трансформації  Рівненського міського Палацу дітей та молоді, Веб-дизайнер, педагог курсу “Основи сайтобудування” в ІТ-школі ПДМ , фотограф.👋  
-Цифрова освіта • Управління проектами • Освітні технології
-## Педагогічна діяльність  
-Педагог у ІТ-школі Рівненського ПДМ  
-Авторський курс «Основи верстки HTML/CSS».  
-Курс “Захоплива фотографія”.  
-<!--
-**KvitkaLi/KvitkaLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I work at the intersection of education, digital transformation,
+youth initiatives, and modern communication tools.
+## About me  
+- Coordinator of educational and digital initiatives
+- Working with EdTech and online learning concepts
+- Developing communication and training systems
+- Experienced in youth and volunteer organizations
+- Interested in UI/UX, web technologies, and digital strategy
