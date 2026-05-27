@@ -8,7 +8,7 @@ youth initiatives, and modern communication tools.
 - Developing communication and training systems  
 - Experienced in youth and volunteer organizations  
 - Interested in UI/UX, web technologies, and digital strategy
--  
+  
 ## Skills  
 - Project Management  
 - Digital Transformation  
@@ -22,12 +22,9 @@ youth initiatives, and modern communication tools.
 
 ### Digital Transformation Concept
 Concept of digital ecosystem for educational institution.
-
 ### Online Learning Platform
 Architecture and planning for online educational environment.
-
 ### Internal Communication Guidelines
 Development of digital communication standards and staff training materials.
-
 ### Youth Educational Projects
 Organization of training programs, camps, and educational initiatives.
