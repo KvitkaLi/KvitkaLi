@@ -1,9 +1,9 @@
 ## My name is Natalka.
-I work at the intersection of education, digital transformation,
-youth initiatives, and modern communication tools.
+
 <img width="1024" height="576" alt="coffee-idea" src="https://github.com/user-attachments/assets/56cee45a-093b-40e8-af10-4115594228a1" />
 
-
+I work at the intersection of education, digital transformation,  
+youth initiatives, and modern communication tools.
 ## About me  
 - Coordinator of educational and digital initiatives  
 - Working with EdTech and online learning concepts  
