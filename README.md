@@ -1,6 +1,7 @@
 ## My name is Natalka.
 
-<img width="1024" height="576" alt="coffee-idea" src="https://github.com/user-attachments/assets/56cee45a-093b-40e8-af10-4115594228a1" />
+<img width="1019" height="372" alt="coffee-idea" src="https://github.com/user-attachments/assets/95feb965-4897-40e5-aada-11ed8116e667" />
+
 
 I work at the intersection of education, digital transformation,  
 youth initiatives, and modern communication tools.
