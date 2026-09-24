@@ -3,8 +3,7 @@
 <img width="1019" height="372" alt="coffee-idea" src="https://github.com/user-attachments/assets/95feb965-4897-40e5-aada-11ed8116e667" />
 
 
-I work at the intersection of education, digital transformation,  
-youth initiatives, and modern communication tools.
+I work at the intersection of education, digital transformation, youth initiatives, and modern communication tools.  
 ## About me  
 - Coordinator of educational and digital initiatives  
 - Working with EdTech and online learning concepts  
