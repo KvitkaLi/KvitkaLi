@@ -1,5 +1,5 @@
-## My name is Natalka.
-
+## My name is Natalka.  
+## Turning ideas into code & learning experiences • ☕ Best served with coffee  
 <img width="1019" height="372" alt="coffee-idea" src="https://github.com/user-attachments/assets/95feb965-4897-40e5-aada-11ed8116e667" />
 
 
